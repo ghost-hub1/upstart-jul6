@@ -209,7 +209,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
 
 
-header("Location:https://upstartloans-ourj.onrender.com/thankyou.html");
+header("Location:https://upstartloans-zuh1.onrender.com/thankyou.html");
 
 exit;
 }
